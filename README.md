@@ -18,3 +18,13 @@ This is an overview of a spatial description of Nicaragua
 ![](Pop.Sums.png)
 
 ![](Sums3D.PNG)
+
+![](managua_pop15.png)
+
+![](Teustepe_pop15(2).png)
+
+![](TeustepeGitHub.png)
+
+![](TeustepeFinalRayShader.png)
+
+![](Proj4Plot.png)
