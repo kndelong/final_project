@@ -17,4 +17,4 @@ This is an overview of a spatial description of Nicaragua
 
 ![](Pop.Sums.png)
 
-![](Sums3D.png)
+![](Sums3D.PNG)
