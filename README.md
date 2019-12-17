@@ -29,7 +29,7 @@ This graphic describes the population distribution accross the country using an 
 
 ![](FitPLot.png)
 
-A linear fit was then used to describe the population overland that and has been encorporated with a satelite scan of nightime lights.
+A linear fit was then used to describe the population overland, it illustrates that most of the population resides on the western part of the country and has a small outlier in the east.
 
 ![](GithubPLotss.png)
 
@@ -45,9 +45,13 @@ A Three-Dimensional plot of population sums was generated to show how much large
 
 ## Administrative Subdivisions Comparison
 
+### Population Density in Managua
 ![](managua_pop15.png)
 
+### Population Density in Teustepe
 ![](Teustepe_pop15(2).png)
+
+Between the two plots, it is evident by the difference in their color scales that Managua has a much larger concentraion of people. Managua and Teustepe have similar land areas, the developement of the land however is much different. Managua is almost exlusively urbanized with a populatio of just over 1.2 million people; conversely Teustepe has a population of 36,000 people with only two vastly smaller 'urban' areas.
 
 ## Assessment of Healthcare, Transportation, and Human Developement
 
