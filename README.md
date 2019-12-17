@@ -57,11 +57,15 @@ Between the two plots, it is evident by the difference in their color scales tha
 
 ![](TeustepeGitHub.png)
 
+As seen on in the image, there is one hospital that resides inside of the administrative boundary; the other is just outside in the next municipality which can be accessed by car. There are 463 km of roads within the municipalitfy of Teustepe which link the minor urban areas via a primary road that runs through the center of the district.
+
 | District | Urban Populations | Roadways | Healthcare Facilities |
 | :--------: | :-----------------: | :--------: | :---------------------: |
 | Teustepe | Largest Pop: 11,643 ppl | 463056.2 m of road | 2 Hospitals, 16,151 ppl/facility |
 
-
-![](TeustepeFinalRayShader.png)
-
 ![](Proj4Plot.png)
+
+This 3D render illustrates how the topography of the region effected human developement. The mountainous region forced persons to settle in the low-lying valley, where there is flatter ground. The settlements appear to be higher than the body of water in the lower edge to avoid flooding. The transporantion network was also shaped by the valley; the one primary road runs along the basin of the valley linking two hubs of civilization in the area. There are a few tertiary roads that link the outlying population centers with the rest of the district. 
+The lack of health care in the district can be inferred from there only being one hospital to support the entire population of 36,000. However, it can also be assumed that perons travel to the next district over to recieve healthcare. With the main population of the country centered in Managua, I presume that the government does not maintain roads through the sparse regions of the country.
+Human developement in this area is definitely hindered by the lack of access to readily available care facilities. This region is dominated by agriarian communities that do not accumulate wealth. Much to the benefit of the disadvantaged, healthcare in Nicaragua is socialized, thus treatment is given at little to no cost to patients. This specific area in Nicaragua will most likely not progress past an agro-central economy thereby limiting developement.
+
