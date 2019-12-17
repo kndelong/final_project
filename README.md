@@ -51,13 +51,13 @@ A Three-Dimensional plot of population sums was generated to show how much large
 ### Population Density in Teustepe
 ![](Teustepe_pop15(2).png)
 
-Between the two plots, it is evident by the difference in their color scales that Managua has a much larger concentraion of people. Managua and Teustepe have similar land areas, the developement of the land however is much different. Managua is almost exlusively urbanized with a populatio of just over 1.2 million people; conversely Teustepe has a population of 36,000 people with only two vastly smaller 'urban' areas.
+Between the two plots, it is evident by the difference in their color scales that Managua has a much larger concentration of people. Managua and Teustepe have similar land areas, the developement of the land however is much different. Managua is almost exclusively urbanized with a population of just over 1.2 million people; conversely Teustepe has a population of 36,000 people with only two vastly smaller 'urban' areas.
 
 ## Assessment of Healthcare, Transportation, and Human Developement
 
 ![](TeustepeGitHub.png)
 
-As seen on in the image, there is one hospital that resides inside of the administrative boundary; the other is just outside in the next municipality which can be accessed by car. There are 463 km of roads within the municipalitfy of Teustepe which link the minor urban areas via a primary road that runs through the center of the district.
+As seen on in the image, there is one hospital that resides inside of the administrative boundary; the other is just outside in the next municipality which can be accessed by car. There are 463 km of roads within the municipality of Teustepe which link the minor urban areas via a primary road that runs through the center of the district.
 
 | District | Urban Populations | Roadways | Healthcare Facilities |
 | :--------: | :-----------------: | :--------: | :---------------------: |
@@ -65,7 +65,7 @@ As seen on in the image, there is one hospital that resides inside of the admini
 
 ![](Proj4Plot.png)
 
-This 3D render illustrates how the topography of the region effected human developement. The mountainous region forced persons to settle in the low-lying valley, where there is flatter ground. The settlements appear to be higher than the body of water in the lower edge to avoid flooding. The transporantion network was also shaped by the valley; the one primary road runs along the basin of the valley linking two hubs of civilization in the area. There are a few tertiary roads that link the outlying population centers with the rest of the district. 
-The lack of health care in the district can be inferred from there only being one hospital to support the entire population of 36,000. However, it can also be assumed that perons travel to the next district over to recieve healthcare. With the main population of the country centered in Managua, I presume that the government does not maintain roads through the sparse regions of the country.
-Human developement in this area is definitely hindered by the lack of access to readily available care facilities. This region is dominated by agriarian communities that do not accumulate wealth. Much to the benefit of the disadvantaged, healthcare in Nicaragua is socialized, thus treatment is given at little to no cost to patients. This specific area in Nicaragua will most likely not progress past an agro-central economy thereby limiting developement.
+This 3D render illustrates how the topography of the region effected human development. The mountainous region forced persons to settle in the low-lying valley, where there is flatter ground. The settlements appear to be higher than the body of water in the lower edge to avoid flooding. The transportation network was also shaped by the valley; the one primary road runs along the basin of the valley linking two hubs of civilization in the area. There are a few tertiary roads that link the outlying population centers with the rest of the district. 
+The lack of health care in the district can be inferred from there only being one hospital to support the entire population of 36,000. However, it can also be assumed that persons travel to the next district over to receive healthcare. With the main population of the country centered in Managua, I presume that the government does not maintain roads through the sparse regions of the country.
+Human development in this area is definitely hindered by the lack of access to readily available care facilities. This region is dominated by agrarian communities that do not accumulate wealth. Much to the benefit of the disadvantaged, healthcare in Nicaragua is socialized, thus treatment is given at little to no cost to patients. This specific area in Nicaragua will most likely not progress past an agro-central economy thereby limiting development.
 
